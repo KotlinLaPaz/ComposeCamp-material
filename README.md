@@ -19,6 +19,6 @@ En las siguientes tablas se encuentran las presentaciones y el código que nuest
 |-------------|----------|---------------|-------------|----------------|
 | Bruno Aybar | Compose Essentials | [Slides]() | [Código](https://github.com/android/compose-samples) | [Twitter](https://twitter.com/brunoaybarg), [Website](https://brunoaybar.com/) |
 | Adrián Catalán | Layouts, theming and animation | Pendiente  | Pendiente | Pendiente |
-| José Flavio | Architecture and state | Pendiente | Pendiente | Pendiente |
+| José Flavio | Architecture and state | Pendiente | [Código](https://github.com/jflavio11/ArchitectureAndState-ComposeCamp) | Pendiente |
 | Juan Guillermo Gómez | Accesibility, testing and performance | - | Pendiente | Pendiente |
 | Armando Picón | Form factors | Pendiente | Pendiente | Pendiente |
