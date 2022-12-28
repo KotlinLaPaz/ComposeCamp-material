@@ -1,3 +1,5 @@
+![310919976_3422960371363159_2570732726733336866_n](https://user-images.githubusercontent.com/1924390/209756407-0b380402-24d4-4a76-b69d-123f973f1c5d.jpeg)
+
 # Compose Camp 2022
 
 En las siguientes tablas se encuentran las presentaciones y el código que nuestros invitados nos compartieron durante las clases.
@@ -28,13 +30,25 @@ En las siguientes tablas se encuentran las presentaciones y el código que nuest
 
 | Expositor   | Título   | Presentación  | Redes Sociales |Grabación |
 |-------------|----------|---------------|----------------|-------------|
-| Santiago Carrillo | Prototipado en Android con Firestore y Jetpack Compose | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Talk](https://speakerdeck.com/) |
-| Antonio Leiva | Navegación avanzada en Jetpack Compose | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Talk](https://speakerdeck.com/) |
-| José Luján | 10 cosas que debes saber de Jetpack Compose | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Talk](https://speakerdeck.com/) |
-| Dinorah Tovar | Design Systems en Compose | La guia practica | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Talk](https://speakerdeck.com/) |
-| Anahí Salgado | State Hoisting with Jetpack Compose | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Talk](https://speakerdeck.com/) |
-| Armando Picón | Compose Multiplatform Overview | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Talk](https://speakerdeck.com/) |
-| Nicolás Beltrami | Adaptabilidad y Accesibilidad con Jetpack Compose | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Talk](https://speakerdeck.com/) |
-| Sinuhé Jaime | The magic of IR | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Talk](https://speakerdeck.com/) |
-| Bruno Aybar | Compose Compiler & Runtime: Beyond Android | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Talk](https://speakerdeck.com/) |
-| Yury Camacho | Migrate my app to Compose?...let's do it! | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Talk](https://speakerdeck.com/) |
+| Santiago Carrillo | Prototipado en Android con Firestore y Jetpack Compose | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
+| Antonio Leiva | Navegación avanzada en Jetpack Compose | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
+| José Luján | 10 cosas que debes saber de Jetpack Compose | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
+| Dinorah Tovar | Design Systems en Compose - La guia practica | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
+| Anahí Salgado | State Hoisting with Jetpack Compose | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
+| Armando Picón | Compose Multiplatform Overview | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
+| Nicolás Beltrami | Adaptabilidad y Accesibilidad con Jetpack Compose | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
+| Sinuhé Jaime | The magic of IR | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
+| Bruno Aybar | Compose Compiler & Runtime: Beyond Android | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
+| Yury Camacho | Migrate my app to Compose?...let's do it! | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
+
+
+## Datos finales.
+
+Todos los recursos de encuentran en la presente página y también en los playlist en el cana de YouTube de [Kotlin La Paz](https://youtube.com)
+- Playlist: [Beginner Course | Curso para principiantes](https://youtube.com)
+- Playlist: [Experienced Course | Curso para experimentadoss](https://youtube.com)
+- Playlist: [Conference Compose Camp](https://youtube.com)
+
+Muchas gracias por haber sido parte de [Compose Camp](https://kotlinlapaz.github.io/ComposeCamp)
+
+
