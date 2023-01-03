@@ -28,26 +28,26 @@ En las siguientes tablas se encuentran las presentaciones y el código que nuest
 
 ### Conference Compose Camp
 
-| Expositor   | Título   | Presentación  | Redes Sociales |Grabación |
+| Expositor   | Título   | Material  | Redes Sociales |Grabación |
 |-------------|----------|---------------|----------------|-------------|
-| Santiago Carrillo | Prototipado en Android con Firestore y Jetpack Compose | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
-| Antonio Leiva | Navegación avanzada en Jetpack Compose | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
-| José Luján | 10 cosas que debes saber de Jetpack Compose | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
+| Santiago Carrillo | Prototipado en Android con Firestore y Jetpack Compose | [Slides](https://docs.google.com/presentation/d/1IESIJG4VoE6K_XSkVXLlbqzKOQoAIkUuXq0h2dCIx1Q/edit#slide=id.p) , [Repositorio](https://github.com/ada-school/android-firebase-jetpack-compose)  | [Facebook](https://www.facebook.com/sancarbar), [GitHub](https://github.com/sancarbar) | [Compose Talk](https://www.youtube.com/watch?v=nEqYW4QBZdw) | |
+| Antonio Leiva | Navegación avanzada en Jetpack Compose | [Slides](https://speakerdeck.com/antoniolg/navegacion-avanzada-en-jetpack-compose), [Repositorio](https://github.com/antoniolg/compose-navigation-sample) |  [Twitter](https://twitter.com/lime_cl), [Sitio Web](https://antonioleiva.com/) |[Compose Talk](https://www.youtube.com/watch?v=w_zq_Hq97ZQ) |
+| José Luján | 10 cosas que debes saber de Jetpack Compose | [Slides](https://drive.google.com/file/d/1U0ocoJes4aTDBRyiCBakJd15XpQQFdY4/view)  |  [Twitter](https://twitter.com/josedlujan), [Facebook](https://www.facebook.com/josedlujan86) |[Compose Talk](https://www.youtube.com/watch?v=AcLYHkdoWJ8) |
 | Dinorah Tovar | Design Systems en Compose - La guia practica | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
-| Anahí Salgado | State Hoisting with Jetpack Compose | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
-| Armando Picón | Compose Multiplatform Overview | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
-| Nicolás Beltrami | Adaptabilidad y Accesibilidad con Jetpack Compose | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
-| Sinuhé Jaime | The magic of IR | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
-| Bruno Aybar | Compose Compiler & Runtime: Beyond Android | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
-| Yury Camacho | Migrate my app to Compose?...let's do it! | [Slides](https://speakerdeck.com/)  | Redes Sociales |[Compose Talk](https://speakerdeck.com/) |
+| Anahí Salgado | State Hoisting with Jetpack Compose | [Slides](https://github.com/KotlinLaPaz/ComposeCamp-material/files/10333929/State-Hoisting-with-Jetpack-Compose.pdf)  | [Twitter](https://twitter.com/anncode), [Sitio Web](https://anahisalgado.com/) |[Compose Talk](https://speakerdeck.com/) |
+| Armando Picón | Compose Multiplatform Overview | [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp/), [Tutorial](https://github.com/JetBrains/compose-jb#tutorials) | [@DevPicon](https://twitter.com/DevPicon) en YouTube, GitHub, TikTok |[Compose Talk](https://speakerdeck.com/) |
+| Nicolás Beltrami | Adaptabilidad y Accesibilidad con Jetpack Compose | [Slides](https://speakerdeck.com/)  | [Twitter](https://twitter.com/nicobeltramic) |[Compose Talk](https://speakerdeck.com/) |
+| Sinuhé Jaime | The magic of IR | [Slides](https://speakerdeck.com/)  | [@sierisimo](https://androiddev.social/@sierisimo) en Telegram, Twitter, Mastodon, GitHub, etc. |[Compose Talk](https://speakerdeck.com/) |
+| Bruno Aybar | Compose Compiler & Runtime: Beyond Android | [Slides]([https://speakerdeck.com/](https://github.com/KotlinLaPaz/ComposeCamp-material/files/10333970/Compose.Compiler.Runtime.-.Beyond.Android.pdf)) | [Twitter](https://twitter.com/brunoaybarg), [Website](https://brunoaybar.com/) |[Compose Talk](https://speakerdeck.com/) |
+| Yury Camacho | Migrate my app to Compose?...let's do it! | [Slides](https://speakerdeck.com/)  | [Twitter](https://twitter.com/camachoyury) |[Compose Talk](https://speakerdeck.com/) |
 
 
 ## Datos finales.
 
 Todos los recursos de encuentran en la presente página y también en los playlist en el cana de YouTube de [Kotlin La Paz](https://youtube.com)
-- Playlist: [Beginner Course | Curso para principiantes](https://youtube.com)
-- Playlist: [Experienced Course | Curso para experimentadoss](https://youtube.com)
-- Playlist: [Conference Compose Camp](https://youtube.com)
+- Playlist: [Beginner Course | Curso para principiantes](https://www.youtube.com/playlist?list=PLdZhK6khH0TBpFIu8AX_lFOVg72qv95Ln)
+- Playlist: [Experienced Course | Curso para experimentadoss](https://www.youtube.com/playlist?list=PLdZhK6khH0TCZ95j1Bp4NBIQkeDw8Gjtk)
+- Playlist: [Conference Compose Camp](https://www.youtube.com/playlist?list=PLdZhK6khH0TDhNWk_g8tYgm1xViHY5n3g)
 
 Muchas gracias por haber sido parte de [Compose Camp](https://kotlinlapaz.github.io/ComposeCamp)
 
