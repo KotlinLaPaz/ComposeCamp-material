@@ -38,7 +38,7 @@ En las siguientes tablas se encuentran las presentaciones y el código que nuest
 | Armando Picón | Compose Multiplatform Overview | [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp/), [Tutorial](https://github.com/JetBrains/compose-jb#tutorials) | [@DevPicon](https://twitter.com/DevPicon) en YouTube, GitHub, TikTok |[Compose Talk](https://speakerdeck.com/) |
 | Nicolás Beltrami | Adaptabilidad y Accesibilidad con Jetpack Compose | [Slides](https://speakerdeck.com/)  | [Twitter](https://twitter.com/nicobeltramic) |[Compose Talk](https://speakerdeck.com/) |
 | Sinuhé Jaime | The magic of IR | [Slides](https://speakerdeck.com/)  | [@sierisimo](https://androiddev.social/@sierisimo) en Telegram, Twitter, Mastodon, GitHub, etc. |[Compose Talk](https://speakerdeck.com/) |
-| Bruno Aybar | Compose Compiler & Runtime: Beyond Android | [Slides]([https://speakerdeck.com/](https://github.com/KotlinLaPaz/ComposeCamp-material/files/10333970/Compose.Compiler.Runtime.-.Beyond.Android.pdf)) | [Twitter](https://twitter.com/brunoaybarg), [Website](https://brunoaybar.com/) |[Compose Talk](https://speakerdeck.com/) |
+| Bruno Aybar | Compose Compiler & Runtime: Beyond Android | [Slides](https://github.com/KotlinLaPaz/ComposeCamp-material/files/10333970/Compose.Compiler.Runtime.-.Beyond.Android.pdf) | [Twitter](https://twitter.com/brunoaybarg), [Website](https://brunoaybar.com/) |[Compose Talk](https://speakerdeck.com/) |
 | Yury Camacho | Migrate my app to Compose?...let's do it! | [Slides](https://speakerdeck.com/)  | [Twitter](https://twitter.com/camachoyury) |[Compose Talk](https://speakerdeck.com/) |
 
 
