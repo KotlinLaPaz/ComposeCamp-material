@@ -39,7 +39,7 @@ En las siguientes tablas se encuentran las presentaciones y el código que nuest
 | Nicolás Beltrami | Adaptabilidad y Accesibilidad con Jetpack Compose | [Slides](https://docs.google.com/presentation/d/1x0GW8z3VTDZrsfMwFZYrM6sIsTTUJ2FCbfKzFO8kZ0s/edit?resourcekey=0--8bjyeGIc9EzU7zY01SR-A#slide=id.g146c35be935_0_1116)  | [Twitter](https://twitter.com/nicobeltramic) |[Compose Talk](https://www.youtube.com/watch?v=G5cWKlzpaaY) |
 | Sinuhé Jaime | The magic of IR | [Slides](https://docs.google.com/presentation/d/1jAUTo-HyaDYaZCRKUN1V5m6crquL6UggG1zDhYPC-tY/edit#slide=id.g146c35be935_0_1116)  | [@sierisimo](https://androiddev.social/@sierisimo) en Telegram, Twitter, Mastodon, GitHub, etc. |[Compose Talk](https://www.youtube.com/watch?v=ifTKcCvhkbY) |
 | Bruno Aybar | Compose Compiler & Runtime: Beyond Android | [Slides](https://github.com/KotlinLaPaz/ComposeCamp-material/files/10333970/Compose.Compiler.Runtime.-.Beyond.Android.pdf) | [Twitter](https://twitter.com/brunoaybarg), [Website](https://brunoaybar.com/) |[Compose Talk](https://www.youtube.com/watch?v=k2JhVg0xCOA) |
-| Yury Camacho | Migrate my app to Compose?...let's do it! | [Slides](https://docs.google.com/presentation/d/1pocPNA6qw_X9r3xpPknBS5jErbTENb5WobYJUsD1Ft0/edit#slide=id.g183ca8a3e98_0_31)  | [Twitter](https://twitter.com/camachoyury) |[Compose Talk](https://speakerdeck.com/) |
+| Yury Camacho | Migrate my app to Compose?...let's do it! | [Slides](https://docs.google.com/presentation/d/1pocPNA6qw_X9r3xpPknBS5jErbTENb5WobYJUsD1Ft0/edit#slide=id.g183ca8a3e98_0_31)  | [Twitter](https://twitter.com/camachoyury) |[Compose Talk](https://www.youtube.com/watch?v=24IIUYJJfj0) |
 
 
 ## Datos finales.
